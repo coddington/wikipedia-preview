@@ -1,3 +1,4 @@
+/* eslint-disable */
 /// <reference types="Cypress" />
 
 describe('Testing Thai version for Mobileview', () => {

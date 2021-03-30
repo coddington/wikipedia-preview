@@ -1,3 +1,4 @@
+/* eslint-disable */
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 const LessPluginInlineSvg = require('less-plugin-inline-svg');
 const IgnoreEmitPlugin = require('ignore-emit-webpack-plugin');

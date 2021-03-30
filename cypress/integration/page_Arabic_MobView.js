@@ -1,7 +1,9 @@
+/* eslint-disable */
 /// <reference types="Cypress" />
 
 describe('Testing Arabic version for MobileView', () => {
 
+    
     beforeEach(() => { 
         cy.viewport('iphone-xr')
     })

@@ -1,3 +1,4 @@
+/* eslint-disable */
 /// <reference types="Cypress" />
 
 describe('Testing Bahasa Indonesia version for Mobileview', () => {
